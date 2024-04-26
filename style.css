@@ -1,0 +1,81 @@
+/* Write some CSS below */
+ body {
+    background-color: #CFC4BA;
+    font-size: 18px;
+    color:black;
+    font-family:"Ouvrir Sans", sans serif   ;
+ }
+
+ h1,h2{
+    font-family: "Maillot", sans serif ;
+ }
+
+ h1{
+    font-size: 34px;
+    font-weight:800 ;
+    text-align: center;
+ }
+
+ h2{
+    font-size: 27px;
+    font-weight: 600;
+ }
+
+ a{
+    text-decoration: none;
+ }
+
+ .card-beige{
+    background-color: #FAF4EE;
+    border-radius: 7px;
+    box-shadow: 0 10px 20px #7D7771;
+    margin: 40px 0;
+    padding: 30px;
+    text-align: center;
+    width: 700px;
+ }
+
+ #profile-picture {
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+ }
+
+ .imgg-circle{
+    border-radius: 20%;
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+ }
+ 
+ .container{
+    width: 700px;
+    margin: 20px auto;
+ }
+
+ .button-blue{
+    color: black;
+    background-color: #CFC4BA;
+    border-radius: 5px;
+    padding:15px 25px;
+    font-weight: 600;
+ }
+
+ #introduction p{
+    margin-bottom: 45px;
+ }
+
+.picto{
+    list-style: none;
+    padding-left: 0;
+    line-height: 1;
+}
+
+.picto li{
+    letter-spacing: 100;
+}
+
+#linkedinnn {
+   font-size: 30px;
+}
